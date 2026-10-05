@@ -1,0 +1,19 @@
+# Environment / secrets
+.env
+.env.docker
+.env.compose
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test/cache folders
+.pytest_cache/
+
+# Logs
+*.log
